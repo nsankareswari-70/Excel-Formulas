@@ -13,4 +13,7 @@ If age>30 then "Old" else "Young"
 ### IFS Function
 Checks multiple conditions if the conditions are ture, TRUE part will be evaluated else the False part will be executed.
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/9b4c529fc02175104d85a703b2c855a5df417fb3/form2.png)
+### Len Function
+Finds the length of the Text string
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/575816317a2cd2f9e6777db10d5d167a3bef2abf/form3.png)
 
