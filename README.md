@@ -39,3 +39,7 @@ Removes unwanted spaces from the text string
 ### Concat() function
 Used to combine two strings
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/cd2ad0eccb827462f02e03836d211dd2997d44f3/form10.png)
+
+### Substitute() with the number of instances
+The instance value is optional. But if you give 1, the first occurrence of old text is replaced by the new one. The remaining will be kept as is. In instance number 2, the second occurrence of that old string is replaced by the new one.
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/e102ece72cb6abf65749a835e94f22005e453623/form11.png)
