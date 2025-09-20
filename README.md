@@ -12,4 +12,5 @@ If age>30 then "Old" else "Young"
 =IF(D2>30,"Old","Young")
 ### IFS Function
 Checks multiple conditions if the conditions are ture, TRUE part will be evaluated else the False part will be executed.
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/9b4c529fc02175104d85a703b2c855a5df417fb3/form2.png)
 
