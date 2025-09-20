@@ -55,3 +55,8 @@ The instance value is optional. But if you give 1, the first occurrence of old t
 ### days()
 It gives the number of days between two dates
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/70407e009725a7e586cd37fe02cb5870dbdd4411/form13.png)
+
+### Networkdays()
+It gives the total number of working days between the two given dates
+
+
