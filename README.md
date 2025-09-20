@@ -35,4 +35,4 @@ Used to convert the numeric value to Text. It's most commonly used to convert th
 
 ### Trim() function
 Removes unwanted spaces from the text string
-![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/ee6e48b80b82c00834e309255479f3a4defe540d/form8.png)
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/ee6e48b80b82c00834e309255479f3a4defe540d/form9.png)
