@@ -17,3 +17,7 @@ Checks multiple conditions if the conditions are ture, TRUE part will be evaluat
 Finds the length of the Text string
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/575816317a2cd2f9e6777db10d5d167a3bef2abf/form3.png)
 
+### Left Function
+Extracts the characters from the left part of the string.
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/595cba91fdf751b8e0fc997ef8dc0998c7297c5d/form4.png)
+
