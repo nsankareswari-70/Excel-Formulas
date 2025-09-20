@@ -21,3 +21,7 @@ Finds the length of the Text string
 Extracts the characters from the left part of the string.
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/595cba91fdf751b8e0fc997ef8dc0998c7297c5d/form4.png)
 
+### Right Function
+Extracts the specified number of characters from the right part of the string.
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/d4e6dada52847cfc5457efe8945f97b9ed3b57bd/form5.png)
+
