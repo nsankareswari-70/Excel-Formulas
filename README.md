@@ -29,5 +29,7 @@ One common use of right() is to extract the year from the dates.
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/f2779bf67ff2ad858585d2da6e56a8aa1e3a8c27/form6.png)
 ### Text() function
 Used to convert the numeric value to Text. It's most commonly used to convert the date format to our likings.
-![img alt]https://github.com/nsankareswari-70/Excel-Formulas/blob/c32b1ad7a2e54a6bfa7870b0e4060f2bcc6bdefd/form7.png
+
+
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/c32b1ad7a2e54a6bfa7870b0e4060f2bcc6bdefd/form7.png)
 
