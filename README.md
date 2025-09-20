@@ -33,3 +33,6 @@ Used to convert the numeric value to Text. It's most commonly used to convert th
 
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/c32b1ad7a2e54a6bfa7870b0e4060f2bcc6bdefd/form7.png)
 
+### Trim() function
+Removes unwanted spaces from the text string
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/ee6e48b80b82c00834e309255479f3a4defe540d/form8.png)
