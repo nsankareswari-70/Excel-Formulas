@@ -58,5 +58,6 @@ It gives the number of days between two dates
 
 ### Networkdays()
 It gives the total number of working days between the two given dates
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/bc53333dde5e00bd1ff63deade863c0552ad8869/form14.png)
 
 
