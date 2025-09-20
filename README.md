@@ -25,3 +25,5 @@ Extracts the characters from the left part of the string.
 Extracts the specified number of characters from the right part of the string.
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/d4e6dada52847cfc5457efe8945f97b9ed3b57bd/form5.png)
 
+One common use of right() is to extract the year from the dates.
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/f2779bf67ff2ad858585d2da6e56a8aa1e3a8c27/form6.png)
