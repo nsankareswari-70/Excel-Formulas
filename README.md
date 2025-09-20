@@ -36,3 +36,6 @@ Used to convert the numeric value to Text. It's most commonly used to convert th
 ### Trim() function
 Removes unwanted spaces from the text string
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/4cce4f108550e348cb2c401d812f5e9c09eac21f/form9.png)
+### Concat() function
+Used to combine two strings
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/cd2ad0eccb827462f02e03836d211dd2997d44f3/form10.png)
