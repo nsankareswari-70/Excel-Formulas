@@ -51,3 +51,7 @@ The instance value is optional. But if you give 1, the first occurrence of old t
 =SUMIFS(G2:G10,D2:D10,">32",E2:E10,"=male")
 
 ![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/10dd4ded7a316f77f38bdfbfe8b074e0847f153f/form12.png)
+
+### days()
+It gives the number of days between two dates
+![img alt](https://github.com/nsankareswari-70/Excel-Formulas/blob/70407e009725a7e586cd37fe02cb5870dbdd4411/form13.png)
