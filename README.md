@@ -10,3 +10,6 @@ Min salary = min(G2:G10) = 32000
 ### IF function
 If age>30 then "Old" else "Young"
 =IF(D2>30,"Old","Young")
+### IFS Function
+Checks multiple conditions if the conditions are ture, TRUE part will be evaluated else the False part will be executed.
+
